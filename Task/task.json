@@ -6,7 +6,7 @@
         "35 8 * * * https://raw.githubusercontent.com/Uiito/QX/master/Task/TieBa.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png, enabled=true",
         "40 8 * * * https://raw.githubusercontent.com/Uiito/QX/master/Task/neteasemusic.js, tag=网易云音乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/neteasemusic.png, enabled=true",
         "20 8 * * * https://raw.githubusercontent.com/Uiito/QX/master/Task/xmlySign.js, tag=喜马拉雅, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/ximalaya.png, enabled=true",
-        "45 8 * * * https://raw.githubusercontent.com/Uiito/QX/master/Task/aliYunPanCheckIn.js, tag=阿里网盘, img-url=https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ALiYun.png, enabled=true",
+        "45 8 * * * https://raw.githubusercontent.com/Uiito/QX/master/Task/aliYunPanCheckIn.js, tag=阿里网盘, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/aliYunPan.png, enabled=true",
         "25 8 * * * https://raw.githubusercontent.com/Uiito/QX/master/Task/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/iQIYI.png, enabled=true",
     ]
 }
