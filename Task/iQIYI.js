@@ -25,7 +25,7 @@ JsBox, Node.js用户获取Cookie说明：
 方法二PC：网页登录 https://www.iqiyi.com 按F12控制台执行 console.log(document.cookie) 复制打印的Cookie填入以下脚本变量或环境变量中即可
 */
 
-var cookie = ''; //单引号内填入手动获取的Cookie
+var cookie = 'H_RENEW_COUNT=1689731238538; QC007=https://m.iqiyi.com/; QC008=79474e9211aa801c5fde4e6cc0eb02a1; QCH001=0; H5_AB=0; __dfp=e0c6e2c117244040c1b0b9b76d128b68db5b955afed1f5f255bd03a79bf6ba9315@1691027234337@1689731235337; P00001=04y1PgbE2J37v12xxhpf2Pvqwm2pgnNSS5IHzsrawZcM2hpcr1kfXS08dI84TTKZdAu2d; P00002=%7B%22uid%22%3A%221805843902%22%2C%22pru%22%3A1805843902%2C%22user_name%22%3A%22136****2569%22%2C%22nickname%22%3A%22%5Cu7528%5Cu62376ba2fdbe%22%2C%22pnickname%22%3A%22%5Cu7528%5Cu62376ba2fdbe%22%2C%22type%22%3A11%2C%22email%22%3Anull%7D; P00003=1805843902; P00007=04y1PgbE2J37v12xxhpf2Pvqwm2pgnNSS5IHzsrawZcM2hpcr1kfXS08dI84TTKZdAu2d; P00010=1805843902; P00PRU=1805843902; P01010=1689782400; __uuid=79ae139e-0a9c-0bef-aae9-e21399df9d6e; P00004=.1689731229.74e35edd71; QC005=74b2ca8748a540139953b9223470468a; QC006=175fd13e204d8dbb63d4304b76b92311'; //单引号内填入手动获取的Cookie
 
 var barkKey = ''; //Bark APP 通知推送Key
 
