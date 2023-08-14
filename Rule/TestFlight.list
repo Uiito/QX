@@ -1,0 +1,6 @@
+# NAME: TestFlight和苹果商店下载
+
+HOST,beta.apple.com,TestFlight
+HOST,testflight.apple.com,TestFlight
+HOST-KEYWORD,testflight,TestFlight
+HOST,iosapps.itunes.apple.com，AppStore
