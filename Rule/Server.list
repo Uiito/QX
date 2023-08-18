@@ -1,0 +1,29 @@
+vmess=data-hk-v1.shwjfkw.cn:20207, method=aes-128-gcm, password=b1478e24-4916-3abe-8f17-15931012ecbe, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰 香港01 | 解锁Netflix
+
+vmess=data-hk-v2.usabooks.com.cn:20207, method=aes-128-gcm, password=b1478e24-4916-3abe-8f17-15931012ecbe, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰 香港 02 | 解锁Netflix
+
+vmess=data-hk-v1.usabooks.com.cn:20206, method=aes-128-gcm, password=b1478e24-4916-3abe-8f17-15931012ecbe, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰 香港 03 
+
+vmess=data-hk-v2.shwjfkw.cn:20206, method=aes-128-gcm, password=b1478e24-4916-3abe-8f17-15931012ecbe, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰 香港 04 
+
+vmess=data-hk-v1.usabooks.com.cn:20205, method=aes-128-gcm, password=b1478e24-4916-3abe-8f17-15931012ecbe, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰 香港 05
+
+vmess=data-hk-v2.usabooks.com.cn:20205, method=aes-128-gcm, password=b1478e24-4916-3abe-8f17-15931012ecbe, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰 香港 06 
+
+vmess=data-tw-v1.usabooks.com.cn:20221, method=aes-128-gcm, password=b1478e24-4916-3abe-8f17-15931012ecbe, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=false, udp-relay=false, aead=true, tag=🇨🇳 台湾 01
+
+vmess=data-tw-v2.shwjfkw.cn:20221, method=aes-128-gcm, password=b1478e24-4916-3abe-8f17-15931012ecbe, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=false, udp-relay=false, aead=true, tag=🇨🇳 台湾 02
+
+vmess=data-jp-v1.usabooks.com.cn:20301, method=aes-128-gcm, password=b1478e24-4916-3abe-8f17-15931012ecbe, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=false, udp-relay=false, aead=true, tag=🇯🇵 日本 01
+vmess=data-sg-v1.shwjfkw.cn:20701, method=aes-128-gcm, password=b1478e24-4916-3abe-8f17-15931012ecbe, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=false, udp-relay=false, aead=true, tag=🇸🇬 新加坡 01
+
+vmess=data-us-v1.shwjfkw.cn:20401, method=aes-128-gcm, password=b1478e24-4916-3abe-8f17-15931012ecbe, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 美国 01
+
+vmess=data-us-v2.usabooks.com.cn:20402, method=aes-128-gcm, password=b1478e24-4916-3abe-8f17-15931012ecbe, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 美国 02
+
+http=155.248.169.205:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=🎸 Unlock1
+
+shadowsocks=101.132.192.212:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=🎸 Unlock2
+
+shadowsocks=101.132.192.212:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=🎸 Unlock3
+
